@@ -16,7 +16,7 @@ export const yardTable: Yard[] = [
     equipment: [],
     id: "4de3f2e4-43e4-429f-a9c2-3ffa7ce35d4b",
     name: "Derektown NE",
-    maxSpacesAvailable: 65,
+    maxSpacesAvailable: 1,
     location: {
       city: "Derektown",
       region: "NE",
